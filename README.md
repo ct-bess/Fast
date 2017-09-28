@@ -1,4 +1,4 @@
-# :big_blue_circle: Fast :big_blue_circle:
+# :large_blue_circle: Fast :large_blue_circle:
 
 C++ header file Fast.h
 
